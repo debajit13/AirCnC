@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img style="border-width: 0" src="assets/logo.png">
+</p>
 
 # AirCnC
 A beautiful website for renting dogs
@@ -10,7 +12,7 @@ Create this website mainly for fun purposes and also to help others to start the
 <img src="https://img.shields.io/badge/github-success-green">
 
 # Screenshots
-
+<img src="assets/screenshot.png">
 
 # Languages Used
 **Built with**
